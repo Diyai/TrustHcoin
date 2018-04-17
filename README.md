@@ -1,2 +1,2 @@
-# diycoin
-diycoin(Do it yourself)
+# TrustHcoin
+
